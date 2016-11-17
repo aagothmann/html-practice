@@ -11,3 +11,7 @@ img {
   width: 300 px;
   border: 2px green dashed;
 }
+
+#firs-ingredient {
+  color: blue;
+}
