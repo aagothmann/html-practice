@@ -1,5 +1,6 @@
 body {
   font-family: Calibri, Arial, sans-serif; 
+  text-align: center;
 }
 
 ul {
@@ -10,6 +11,7 @@ img {
   height: 200 px;
   width: 300 px;
   border: 2px green dashed;
+  padding: 5px 10px 5px 10px;
 }
 
 #first-ingredient {
