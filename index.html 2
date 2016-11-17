@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Learning about HTML</title>
+  </head>
+  
+  <body>
+    <header>
+      <h1>Recipes</h1>
+    </header>
+    
+    <section>
+      <h2>Chocolate Chip Cookies</h2>
+    </section>
+  </body>
+</html>
